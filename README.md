@@ -31,17 +31,18 @@ TourGuideApp adalah aplikasi Android modern yang dirancang untuk membantu penggu
 
 ## 📱 Berikut adalah hasil tampilan pada aplikasi ini yang telah dibuat : 
 1. Home Page:
-   
-![image](https://github.com/user-attachments/assets/e0518f35-a52b-4418-9746-cf6349adf345)
+
+![image](https://github.com/user-attachments/assets/334a8586-165f-4357-a9a2-aba1f1239076)
 
 2. Top Destinasi Page :
-   
-![image](https://github.com/user-attachments/assets/20227837-f5fb-4c08-b762-f05a0c3c8c68)
+
+![image](https://github.com/user-attachments/assets/323d347a-c39f-4f24-b610-ed5dd67a52b8)
 
 3. Tour Page :
 
-![image](https://github.com/user-attachments/assets/ed804d30-189e-4239-bf81-e5e903af1b5e)
+![image](https://github.com/user-attachments/assets/eb503519-9597-4119-99d4-3aeea0316717)
 
 4. Profile Page :
 
-![image](https://github.com/user-attachments/assets/9c09c8c7-6bc9-445d-9b08-a6f85b82da42)
+![image](https://github.com/user-attachments/assets/87560ea0-7e6c-4136-b1b9-9ed4453e76e6)
+
