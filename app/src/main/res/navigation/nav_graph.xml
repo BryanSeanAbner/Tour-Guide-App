@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.tourguideapp.fragment.HomeFragment"
+        android:label="@string/nav_home" />
+
+    <fragment
+        android:id="@+id/nav_destinations"
+        android:name="com.example.tourguideapp.fragment.DestinationsFragment"
+        android:label="@string/nav_destinations">
+        <action
+            android:id="@+id/action_destinations_to_detail"
+            app:destination="@id/destinationDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_tours"
+        android:name="com.example.tourguideapp.fragment.ToursFragment"
+        android:label="@string/nav_tours">
+        <action
+            android:id="@+id/action_tours_to_detail"
+            app:destination="@id/tourDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.tourguideapp.fragment.ProfileFragment"
+        android:label="@string/nav_profile" />
+
+    <fragment
+        android:id="@+id/destinationDetailFragment"
+        android:name="com.example.tourguideapp.fragment.DestinationDetailFragment"
+        android:label="DestinationDetailFragment">
+        <argument
+            android:name="destinationId"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tourDetailFragment"
+        android:name="com.example.tourguideapp.fragment.TourDetailFragment"
+        android:label="TourDetailFragment">
+        <argument
+            android:name="tourId"
+            app:argType="string" />
+    </fragment>
+
+</navigation> 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_destinations">Top Wisata</string>
+    <string name="nav_tours">Tour</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Home -->
+    <string name="greeting_text">Halo, Bryan Sean!</string>
+    <string name="search_hint">Cari destinasi wisata...</string>
+    <string name="top_destinations">Destinasi Populer</string>
+    <string name="recommended_tours">Rekomendasi Tur</string>
+    <string name="categories">Kategori</string>
+    <string name="view_details">Lihat Detail</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profil</string>
+    <string name="settings">Pengaturan</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="logout">Keluar</string>
+    <string name="dark_mode_enabled">Mode gelap diaktifkan</string>
+    <string name="dark_mode_disabled">Mode gelap dinonaktifkan</string>
+    <string name="notifications_enabled">Notifikasi diaktifkan</string>
+    <string name="notifications_disabled">Notifikasi dinonaktifkan</string>
+
+    
+    <!-- Details -->
+    <string name="place_distance">%.1f km dari lokasi Anda</string>
+    <string name="tour_duration">Durasi: %s</string>
+    
+    <!-- Home Page -->
+    <string name="quick_access_title">Akses Cepat</string>
+    <string name="top_destinations_title">Destinasi Populer</string>
+    <string name="recommended_tours_title">Rekomendasi Tur</string>
+    
+    <!-- Quick Access -->
+    <string name="quick_access_destinations">Destinasi</string>
+    <string name="quick_access_attractions">Tempat Wisata</string>
+    <string name="quick_access_tours">Tur</string>
+
+    <!-- Tour Details -->
+    <string name="tour_price">Mulai dari Rp %1$s</string>
+    <string name="tour_rating">Rating: %1$s/5</string>
+    <string name="tour_max_participants">Maksimal %1$d peserta</string>
+    <string name="tour_book_now">Pesan Sekarang</string>
+    <string name="tour_view_details">Lihat Detail</string>
+
+    <!-- Place Details -->
+    <string name="place_rating">Rating: %1$s/5</string>
+    <string name="place_like">Suka</string>
+    <string name="place_share">Bagikan</string>
+
+    <!-- New strings from the code block -->
+    <string name="home">Beranda</string>
+    <string name="map">Peta</string>
+    <string name="profile">Profil</string>
+
+    <!-- New strings from the code block -->
+    <string name="distance_format">%.1f km dari lokasi Anda</string>
+    <string name="duration_format">Durasi: %s</string>
+    <string name="book_now">Pesan Sekarang</string>
+    <string name="included">Yang Termasuk</string>
+    <string name="excluded">Yang Tidak Termasuk</string>
+    <string name="itinerary">Itinerary</string>
+    <string name="view_detail">Lihat Detail</string>
+
+    <!-- New strings from the code block -->
+    <string name="popular_attractions">Tempat Wisata Populer</string>
+    <string name="hidden_gems">Hidden Gems</string>
+    <string name="attractions_count">%d tempat wisata</string>
+
+    <string name="destinations">Destinasi Wisata</string>
+</resources>
